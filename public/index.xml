@@ -75,27 +75,27 @@
     </item>
     
     <item>
+      <title>Air Quality Dashboard</title>
+      <link>/post/airquality-dashboard/air-quality-dashboard/</link>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/airquality-dashboard/air-quality-dashboard/</guid>
+      <description>
+
+
+&lt;p&gt;#AURN Dashboard - 2019&lt;/p&gt;
+&lt;p&gt;Below I’ve embedded a shiny flexdashboard allowing selection of currently active Urban Traffic AURN Stations&lt;/p&gt;
+&lt;iframe width=&#34;450&#34; height=&#34;400&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://user-test.shinyapps.io/aq-dashboard/&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Website is live!</title>
       <link>/post/new-website/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/post/new-website/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;The new website is live!&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
+      <description>&lt;p&gt;New website is up! Content to follow&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

@@ -5,12 +5,33 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2019 21:13:14 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>AQ Dashboard</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sat, 21 Dec 2019 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;aurn-air-quality-dashboard&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;AURN Air Quality Dashboard&lt;/h1&gt;
+&lt;p&gt;I’ve created the below dashboard utilising flexdashboard.&lt;/p&gt;
+&lt;p&gt;It provides a plotly time series line graph, along with a view of the data table&lt;/p&gt;
+&lt;div id=&#34;flexdashboard-embed---takes-a-while-to-load.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Flexdashboard embed - takes a while to load.&lt;/h2&gt;
+&lt;iframe width=&#34;800&#34; height=&#34;900&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://user-test.shinyapps.io/aq-dashboard/&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>New Website is live!</title>

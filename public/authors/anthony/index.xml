@@ -5,27 +5,12 @@
     <link>/authors/anthony/</link>
       <atom:link href="/authors/anthony/index.xml" rel="self" type="application/rss+xml" />
     <description>Air Quality Anthony</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/icon-192.png</url>
       <title>Air Quality Anthony</title>
       <link>/authors/anthony/</link>
     </image>
-    
-    <item>
-      <title>Air Quality Dashboard</title>
-      <link>/post/airquality-dashboard/air-quality-dashboard/</link>
-      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/airquality-dashboard/air-quality-dashboard/</guid>
-      <description>
-
-
-&lt;p&gt;##AURN Dashboard - 2019&lt;/p&gt;
-&lt;p&gt;Below I’ve embedded a shiny flexdashboard allowing selection of currently active Urban Traffic AURN Stations&lt;/p&gt;
-&lt;iframe width=&#34;1200&#34; height=&#34;900&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://user-test.shinyapps.io/aq-dashboard/&#34;&gt;
-&lt;/iframe&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

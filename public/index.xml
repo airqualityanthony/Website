@@ -75,21 +75,6 @@
     </item>
     
     <item>
-      <title>Air Quality Dashboard</title>
-      <link>/post/airquality-dashboard/air-quality-dashboard/</link>
-      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/airquality-dashboard/air-quality-dashboard/</guid>
-      <description>
-
-
-&lt;p&gt;##AURN Dashboard - 2019&lt;/p&gt;
-&lt;p&gt;Below I’ve embedded a shiny flexdashboard allowing selection of currently active Urban Traffic AURN Stations&lt;/p&gt;
-&lt;iframe width=&#34;1200&#34; height=&#34;900&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://user-test.shinyapps.io/aq-dashboard/&#34;&gt;
-&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>New Website is live!</title>
       <link>/post/new-website/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>

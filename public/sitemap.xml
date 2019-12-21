@@ -33,7 +33,17 @@
   </url>
   
   <url>
+    <loc>/authors/anthony/</loc>
+    <lastmod>2019-12-21T18:04:32+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/airquality-dashboard/air-quality-dashboard/</loc>
+    <lastmod>2019-12-21T18:04:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2019-12-21T18:04:32+00:00</lastmod>
   </url>
   
@@ -118,11 +128,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -165,10 +170,6 @@
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anthony/</loc>
   </url>
   
   <url>

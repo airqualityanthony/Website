@@ -19,7 +19,7 @@ interests:
 - R and Python Programming
 name: Anthony Walker
 organizations:
-- name: Department for Environment, Farming, and Rural Affairs (DEFRA)
+- name: Department for Environment, Food, and Rural Affairs (DEFRA)
   url: "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
 role: Senior Science Officer - Air Quality
 social:

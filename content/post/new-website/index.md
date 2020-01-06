@@ -9,12 +9,9 @@ title: Air Quality AURN Dashboard!
 author: anthony
 ---
 
-# AURN Air Quality Dashboard
-
 I've created the below dashboard utilising flexdashboard. 
 
 It provides a plotly time series line graph, along with a view of the data table
-
 
 ## Flexdashboard embed - takes a while to load.
 

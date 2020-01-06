@@ -3,6 +3,6 @@ header:
   caption: ""
   image: ""
 title: Publications
-active = false
+active: false
 view: 4
 ---

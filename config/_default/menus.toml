@@ -20,7 +20,7 @@
 
 [[main]]
   name = "RStudio Server"
-  url = "http://134.209.189.38:8787"
+  url = "http://134.209.189.38/rstudio_server"
   weight = 45
 
 [[main]]

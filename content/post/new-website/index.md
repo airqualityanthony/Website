@@ -1,4 +1,8 @@
 ---
+authors:
+- anthony
+categories:
+- R
 date: "2020-01-06"
 diagram: true
 image:
@@ -6,7 +10,7 @@ image:
   placement: 3
 math: true
 title: Air Quality AURN Dashboard!
-author: anthony
+
 ---
 
 I've created the below dashboard utilising flexdashboard. 

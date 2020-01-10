@@ -7,13 +7,13 @@
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/icon-32.png</url>
       <title>Academic</title>
       <link>/tags/academic/</link>
     </image>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
+      <title>How I built my website using R, Blogdown, and Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/post/getting-started/</guid>

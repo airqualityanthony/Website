@@ -71,6 +71,9 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+[design.spacing]
+  padding = ["50px", "0", "10px", "0"]
+  
 [advanced]
  # Custom CSS. 
  css_style = ""

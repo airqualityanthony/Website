@@ -6,10 +6,10 @@ education:
   courses:
   - course: BSc Chemistry
     institution: University of Hull
-    year: 2017
+    
   - course: BA History
     institution: University of Hull
-    year: 2012
+    
  
 email: "walker.anthony91@gmail.com"
 interests:

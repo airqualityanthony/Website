@@ -5,28 +5,28 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/icon-32.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
     
     <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/anthony/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/anthony/</guid>
       <description>&lt;p&gt;A website to house my personal exploration of machine learning, data visualisation, R programming, and air quality research.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description></description>
     </item>
     
   </channel>
